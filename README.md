@@ -43,7 +43,7 @@ The simulation result below (`SPI_slave.png`) illustrates a successful **Write T
 ---
 
 ## 🚀 Simulation with Verilator
-This design is optimized for **Verilator 5.0+**. Use the following commands to run the testbench and generate waveforms:
+This design is optimized for **Verilator 5.0+**. Use the following commands to run the testbench and generate waveforms(currently we are using EDA Playground as it supports opensource simulators):
 
 ```bash
 # Compile and Build the simulation
